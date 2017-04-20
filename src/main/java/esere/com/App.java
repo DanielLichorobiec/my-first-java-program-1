@@ -8,19 +8,9 @@ public class App {
 
         for (int i = 0; i < 7; i++) {
             System.out.println("ts");
-
+           
         }
-
-        for (int i = 0; i < 22;
-             i++) {
-
-        }
-
-        for (int i = 0;
-             i < 23; i++) {
-            System.out.println(i);
-        }
-
+// ze zmianami
         System.out.println("Hello  enie nie" +
                 "enienienn " +
                 "Wo" +
